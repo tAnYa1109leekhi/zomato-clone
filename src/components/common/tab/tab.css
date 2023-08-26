@@ -1,0 +1,32 @@
+.tab-option{ 
+    box-shadow: rgb(202, 188, 188) 0px -0.5px 0px inset;
+}
+.option-wrapper{ 
+    display: flex;
+}
+.tab-item{ 
+    margin-right: 24px;
+    padding: 12px 12px 20px 12px ;
+
+}
+.tab-name{ 
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 10px;
+    color: #464141;
+
+}
+.image-container{ 
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    background-color: #F8F8F8;
+}
+.images-tab{ 
+   height: 35px;
+   width: 35px;
+
+}
+.active-tab{ 
+    border-bottom: 2px solid #EF4F5F;
+}
